@@ -22,3 +22,7 @@ npm run test:open
 
 npm run test:run
 ```
+
+Documents
+----------
+- https://github.com/cypress-io/cypress-example-recipes/tree/master/examples/extending-cypress__chai-assertions
