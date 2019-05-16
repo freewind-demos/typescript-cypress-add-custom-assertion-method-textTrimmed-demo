@@ -12,7 +12,6 @@ cy.get('h1').should('have.textTrimmed', 'Hello')
 
 ```
 npm install
-npm run server
 ```
 
 then:
